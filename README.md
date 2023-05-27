@@ -1,4 +1,4 @@
-# liella.tv
+# 开发请fork develop 分支 ,master分支将直接同步到服务器
 
 ## Build Setup
 
