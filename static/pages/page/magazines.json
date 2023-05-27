@@ -1,0 +1,67 @@
+{
+    "banner":"/image/head.jpg",
+    "title":"相关杂志 - Liella！星象馆",
+    "data":[
+        [{
+            "title":"相关杂志",
+            "divider":false,
+            "cols":{
+              "default":2,
+              "lg":4
+            },
+            "child-tag":"liella-card",
+            "children":[
+                {
+                  "image":"/image/magazine/LLD%20vol.17.jpg",
+                  "introduction":"LoveLive! Days Vol.17",
+                  "link":"https://www.bilibili.com/read/cv12481613"
+                },
+                {
+                  "image":"/image/magazine/LLD%20vol.16.jpg",
+                  "introduction":"LoveLive! Days Vol.16",
+                  "link":"https://www.bilibili.com/read/cv12402134"
+                },
+                {
+                  "image":"/image/magazine/LLD%20vol.15.jpg",
+                  "introduction":"LoveLive! Days Vol.15",
+                  "link":"https://www.bilibili.com/read/cv11002984"
+                },
+                {
+                  "image":"/image/magazine/LLD%20vol.14.jpg",
+                  "introduction":"LoveLive! Days Vol.14",
+                  "link":"https://www.bilibili.com/read/cv10923910"
+                },
+                {
+                  "image":"/image/magazine/LLD%20vol.13.jpg",
+                  "introduction":"LoveLive! Days Vol.13",
+                  "link":"https://www.bilibili.com/read/cv9870371"
+                },
+                {
+                  "image":"/image/magazine/LLD%20vol.12.jpg",
+                  "introduction":"LoveLive! Days Vol.12",
+                  "link":"https://www.bilibili.com/read/cv9322906"
+                },
+                {
+                  "image":"/image/magazine/LLD%20vol.11.jpg",
+                  "introduction":"LoveLive! Days Vol.11",
+                  "link":"https://www.bilibili.com/read/cv8825301"
+                },
+                {
+                  "image":"/image/magazine/LLD%20vol.10.jpg",
+                  "introduction":"LoveLive! Days Vol.10",
+                  "link":"https://www.bilibili.com/read/cv8468238"
+                },
+                {
+                  "image":"/image/magazine/LLD%20vol.9.jpg",
+                  "introduction":"LoveLive! Days Vol.9",
+                  "link":"https://www.bilibili.com/read/cv7619205"
+                },
+                {
+                  "image":"/image/magazine/LLD%20vol.8.jpg",
+                  "introduction":"LoveLive! Days Vol.8",
+                  "link":"https://www.bilibili.com/read/cv6771220"
+                }
+            ]
+          }]
+    ]
+}

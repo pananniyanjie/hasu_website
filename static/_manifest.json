@@ -1,0 +1,4 @@
+{
+    "baseURL":"/api",
+    "manifest":"/manifest.json"
+}

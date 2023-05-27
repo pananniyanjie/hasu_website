@@ -1,0 +1,34 @@
+{
+    "banner":"/image/head.jpg",
+    "heads":{
+      "title":"结丘女子购买部 - Liella!星象馆"
+    },    
+    "data":[
+        [{
+            "title":"结丘女子购买部",
+            "divider":false,
+            "cols":{
+              "default":2,
+              "lg":4
+            },
+            "child-tag":"liella-card",
+            "children":[
+              {
+                "image":"/image/other/store/s01e01.jpg",
+                "introduction":"Let's School Idol!",
+                "link":"https://www.bilibili.com/video/BV1664y1z7mq/"
+              },
+              {
+                "image":"/image/other/store/s01e02.jpg",
+                "introduction":"永不言弃的心情！",
+                "link":"https://www.bilibili.com/video/BV1QU4y1n7x1/"
+              },
+              {
+                "image":"/image/other/store/s01e03.jpg",
+                "introduction":"可香初次登台",
+                "link":"https://www.bilibili.com/video/BV1Nb4y167hM/"
+              }
+            ]
+          }]
+    ]
+}

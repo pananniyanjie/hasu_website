@@ -1,0 +1,12 @@
+@import './navbar.scss';
+@import './footer.scss';
+@import './old.scss';
+@import './main.scss';
+@import './transition.scss';
+html,body{
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Source Han Sans","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+    font-size: 14px;
+}
+a, a:hover, a:focus, a:visited, a:checked {
+    text-decoration: none;
+}

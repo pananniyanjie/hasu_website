@@ -1,0 +1,45 @@
+{
+    "banner":"/image/head.jpg",
+    "title":"广播剧合集 - Liella!星象馆",
+    "data":[
+        [{
+            "title":"始まりは君の空",
+            "divider":false,
+            "cols":{
+              "default":2,
+              "lg":4
+            },
+            "child-tag":"liella-card",
+            "children":[
+              {
+                "image":"/image/other/drama/1stsingle_1.png",
+                "introduction":"みんなでお出かけ！ ～計画編～"
+              },
+              {
+                "image":"/image/other/drama/1stsingle_2.png",
+                "introduction":"みんなでお出かけ！ ～集合編～"
+              },
+              {
+                "image":"/image/other/drama/1stsingle_3.jpg",
+                "introduction":"こんにちは！ ～澁谷かのん～"
+              },
+              {
+                "image":"/image/other/drama/1stsingle_4.jpg",
+                "introduction":"どうも！ ～唐 可可～"
+              },
+              {
+                "image":"/image/other/drama/1stsingle_5.jpg",
+                "introduction":"うぃーっす！ ～嵐 千砂都～"
+              },
+              {
+                "image":"/image/other/drama/1stsingle_6.jpg",
+                "introduction":"お待たせしました！ ～平安名すみれ～"
+              },
+              {
+                "image":"/image/other/drama/1stsingle_7.jpg",
+                "introduction":"はじめまして。 ～葉月 恋～"
+              }
+            ]
+          }]
+    ]
+}

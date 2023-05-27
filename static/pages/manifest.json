@@ -1,0 +1,42 @@
+{
+    "title":"Liella!星象馆 - 私を叶える物語。",
+    "pages":{
+        "/index":"/index.json",
+        "/page/:name": "/page/:name.json"
+    },
+    "videos":"/videos/:id.json",
+    "user-agreement":"/user-agreement.md",
+    "rules":{
+        "danmaku":"/rules/danmaku.md"
+    },
+    "friends":[
+        {
+            "title":"μ's时光蛋",
+            "link":"https://lovelive.ws/"
+        },
+        {
+            "title":"Aqours许愿瓶",
+            "link":"https://aqours.tv/"
+        },
+        {
+            "title":"虹之咲活动室",
+            "link":"https://nijigaku.club/"
+        },
+        {
+            "title":"LLWiki",
+            "link":"https://llwiki.org/"
+        },
+        {
+            "title":"黑联科技",
+            "link":"https://hlkj.wdztbil.top/"
+        }
+    ],
+    "microsoft":{
+        "clarity":"824dvyiand"
+    },    
+    "google":{
+        "analytics":{
+            "measurement-id":"G-01CJVHGYL9"
+        }
+    }
+}

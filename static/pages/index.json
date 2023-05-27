@@ -1,0 +1,418 @@
+{
+  "banner": "/image/banner.jpg",
+  "data": [
+    [
+      {
+        "cols": {
+          "default": 2,
+          "lg": 3
+        },
+        "hide-in": "md",
+        "child-tag": "liella-member-card",
+        "children": [
+          {
+            "image": "/image/member-kanon.png",
+            "color": "#ff7f27",
+            "title": "这是一只香音哦",
+            "link": "https://llwiki.org/zh/%E6%B6%A9%E8%B0%B7%E9%A6%99%E9%9F%B3"
+          },
+          {
+            "image": "/image/member-keke.png",
+            "color": "#a0fff9",
+            "title": "这是一只可可哦",
+            "link": "https://llwiki.org/zh/%E5%94%90%E5%8F%AF%E5%8F%AF"
+          },
+          {
+            "image": "/image/member-chisato.png",
+            "color": "#ff6e90",
+            "title": "这是一只千砂都哦",
+            "link": "https://llwiki.org/zh/%E5%B2%9A%E5%8D%83%E7%A0%82%E9%83%BD"
+          },
+          {
+            "image": "/image/member-sumire.png",
+            "color": "#74f466",
+            "title": "这是一只Galaxy哒",
+            "link": "https://llwiki.org/zh/%E5%B9%B3%E5%AE%89%E5%90%8D%E5%A0%87"
+          },
+          {
+            "image": "/image/member-ren.png",
+            "color": "#0000a0",
+            "title": "这是一只恋哦",
+            "link": "https://llwiki.org/zh/%E5%8F%B6%E6%9C%88%E6%81%8B"
+          },
+          {
+            "image": "/image/yuigaoka.jpg",
+            "color": "#a5469b",
+            "link": "https://zh.moegirl.org.cn/%E7%BB%93%E4%B8%98%E5%A5%B3%E5%AD%90%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+          },
+          {
+            "image": "/image/member-sayuri.jpg",
+            "color": "#ff7f27",
+            "kaomoji": " （ · 8 · ）",
+            "link": "https://zh.moegirl.org.cn/%E4%BC%8A%E8%BE%BE%E5%B0%8F%E7%99%BE%E5%90%88"
+          },
+          {
+            "image": "/image/member-liyuu.jpg",
+            "color": "#a0fff9",
+            "link": "https://zh.moegirl.org.cn/Liyuu"
+          },
+          {
+            "image": "/image/member-nako.jpg",
+            "color": "#ff6e90",
+            "link": "https://zh.moegirl.org.cn/%E5%B2%AC%E5%A5%88%E5%AD%90"
+          },
+          {
+            "image": "/image/member-naomi.jpg",
+            "color": "#74f466",
+            "link": "https://zh.moegirl.org.cn/Payton%E5%B0%9A%E6%9C%AA"
+          },
+          {
+            "image": "/image/member-nagisa.jpg",
+            "color": "#0000a0",
+            "link": "https://zh.moegirl.org.cn/%E9%9D%92%E5%B1%B1%E6%B8%9A"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "title": "音乐",
+        "divider": false,
+        "cols": {
+          "default": 2,
+          "lg": 4
+        },
+        "child-tag": "liella-card",
+        "children": [
+          {
+            "image": "/image/mv/1stsingle.png",
+            "title": "始まりは君の空",
+            "introduction": "Liella! 一单",
+            "to": "/player/test"
+          },
+          {
+            "image": "/image/tvanimesong.jpg",
+            "title": "电视动画曲目",
+            "introduction": "OP、ED、插入曲、Liella!之歌",
+            "to": "/player/xxx"
+          },
+          {
+            "image": "/image/magazine/new.jpg",
+            "title": "「LoveLive! Days」杂志",
+            "introduction": "「LoveLive! Days」更新中！",
+            "to": "/page/magazines"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "title": "番剧",
+        "divider": false,
+        "cols": {
+          "default": 2,
+          "lg": 4
+        },
+        "child-tag": "liella-card",
+        "children": [
+          {
+            "overlay": true,
+            "image": "/image/tvanime/s01e01.jpg",
+            "title": "第一话",
+            "introduction": "这份心情依然朦胧",
+            "links": [
+              {
+                "label": "微博在线",
+                "link": "https://video.weibo.com/show?fid=1034:4658173890723928"
+              },
+              {
+                "label": "站内在线",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "overlay": true,
+            "image": "/image/tvanime/s01e02.jpg",
+            "title": "第二话",
+            "introduction": "禁止学园偶像!?",
+            "links": [
+              {
+                "label": "微博在线",
+                "link": "https://video.weibo.com/show?fid=1034:4660494884339767"
+              },
+              {
+                "label": "站内在线",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "overlay": true,
+            "image": "/image/tvanime/s01e03.jpg",
+            "title": "第三话",
+            "introduction": "可香",
+            "links": [
+              {
+                "label": "微博在线",
+                "link": "https://video.weibo.com/show?fid=1034:4668073366716524"
+              },
+              {
+                "label": "站内在线",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "overlay": true,
+            "image": "/image/tvanime/s01e04.jpg",
+            "title": "第四话",
+            "introduction": "街角Galaxy☆彡",
+            "links": [
+              {
+                "label": "微博在线",
+                "link": "https://video.weibo.com/show?fid=1034:4670638326218827"
+              },
+              {
+                "label": "主线在线",
+                "link": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "title": "活动",
+        "divider": false,
+        "cols": {
+          "default": 1,
+          "lg": 2
+        },
+        "child-tag": "liella-card",
+        "children": [
+          {
+            "image": "/image/event/release_event.png",
+            "introduction": "一单发售活动（试听）"
+          },
+          {
+            "image": "/image/event/NHK アニソン.jpg",
+            "introduction": "NHK ANIME SONG PREMIUM 2021"
+          },
+          {
+            "image": "/image/event/kv.png",
+            "introduction": "Liella! First LoveLive! Tour",
+            "link": "https://www.lovelive-anime.jp/yuigaoka/live/sp_1stlive/"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "title": "视频",
+        "divider": false,
+        "cols": {
+          "default": 2,
+          "lg": 4
+        },
+        "child-tag": "liella-card",
+        "children": [
+          {
+            "image": "/image/event/namahousou.jpg",
+            "introduction": "生放送",
+            "link": "https://llwiki.org/zh/LoveLive!_Superstar!!%E7%BD%91%E7%BB%9C%E6%94%BE%E9%80%81%E8%8A%82%E7%9B%AE%E5%88%97%E8%A1%A8"
+          },
+          {
+            "image": "/image/event/lieradi.jpg",
+            "introduction": "结女课后广播电台 LieRadi！",
+            "link": "https://llwiki.org/zh/LoveLive!%20Superstar!!%20%E7%BB%93%E5%A5%B3%E6%94%BE%E5%AD%A6%E5%90%8E%E6%94%BE%E9%80%81%E5%B1%80%20LieRadi%EF%BC%81"
+          },
+          {
+            "image": "/image/other/special.jpg",
+            "introduction": "Liella!特别朗读动画",
+            "to": "/page/special-readings"
+          },
+          {
+            "image": "/image/other/drama.jpg",
+            "introduction": "Liella!广播剧",
+            "to": "/page/dramas"
+          },
+          {
+            "image": "/image/other/store.jpg",
+            "introduction": "结丘女子购买部",
+            "to": "/page/store"
+          },
+          {
+            "image": "/image/other/CV_introduction.jpg",
+            "introduction": "声优自我介绍",
+            "link": "https://www.bilibili.com/video/BV1MV411i7yo/"
+          },
+          {
+            "image": "/image/other/yomiuri.jpg",
+            "introduction": "Liella!历险记",
+            "link": "https://space.bilibili.com/565597249/favlist?fid=1220103049"
+          },
+          {
+            "image": "/image/other/coordinate.jpg",
+            "introduction": "Liella!变形记",
+            "link": "https://space.bilibili.com/565597249/favlist?fid=1230874749"
+          },
+          {
+            "image": "/image/other/hayakuchi.jpg",
+            "introduction": "快嘴Liella!",
+            "link": "https://www.bilibili.com/video/BV1BV411E7Y7/"
+          },
+          {
+            "image": "/image/other/outtake.jpg",
+            "introduction": "『周刊Young Jump』拍摄花絮",
+            "link": "https://www.bilibili.com/video/BV1ZU4y1g7P6"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "title": "演唱会",
+        "divider": false,
+        "cols": {
+          "default": 2,
+          "lg": 4
+        },
+        "child-tag": "liella-card",
+        "children": [
+          {
+            "image": "/image/event/ANIME EXPO LITE 2021.jpg",
+            "introduction": "ANIME EXPO LITE Liella!部分",
+            "link": "https://www.bilibili.com/video/BV1J54y1p7rj/?spm_id_from=333.788.videocard.0"
+          },
+          {
+            "image": "/image/event/AnimeJapan 2021.jpg",
+            "introduction": "Anime Japan 2021 Liella!部分",
+            "link": "https://www.bilibili.com/video/BV14b4y1Q7um/?spm_id_from=333.788.videocard.2"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "title": "快速导航",
+        "divider": false,
+        "cols": {
+          "default": 2,
+          "lg": 4
+        },
+        "child-tag": "liella-button",
+        "children": [
+          {
+            "title": "下载视频（天翼云：odv6）",
+            "variant": "success",
+            "size": "lg",
+            "link": "https://cloud.189.cn/t/nqQfemJN3mQj",
+            "cols": {
+              "default": 12,
+              "lg": 6
+            }
+          },
+          {
+            "title": "赞助我们",
+            "variant": "success",
+            "size": "lg",
+            "link": "https://afdian.net/@liella",
+            "cols": {
+              "default": 6,
+              "lg": 3
+            }
+          },
+          {
+            "title": "反馈意见",
+            "variant": "primary",
+            "size": "lg",
+            "link": "mailto:WatanabeYou5175@outlook.com",
+            "cols": {
+              "default": 6,
+              "lg": 3
+            }
+          }
+        ]
+      },
+      "divider",
+      {
+        "title": "UP主推荐",
+        "divider": false,
+        "cols": {
+          "default": 2,
+          "lg": 4
+        },
+        "child-tag": "liella-button",
+        "children": [
+          {
+            "title": "申请入驻",
+            "variant": "info",
+            "class": "text-truncate",
+            "link": "mailto:WatanabeYou5175@outlook.com"
+          },
+          {
+            "title": "SNS字幕组",
+            "variant": "outline-info",
+            "class": "text-truncate",
+            "link": "https://space.bilibili.com/89102363/"
+          },
+          {
+            "title": "No.10字幕组",
+            "variant": "outline-info",
+            "class": "text-truncate",
+            "link": "https://space.bilibili.com/565597249/"
+          },
+          {
+            "title": "鲤鱼烧烤铺",
+            "variant": "outline-info",
+            "class": "text-truncate",
+            "link": "https://space.bilibili.com/1217316294/"
+          },
+          {
+            "title": "依然洳雪",
+            "variant": "outline-info",
+            "class": "text-truncate",
+            "link": "https://space.bilibili.com/13184888"
+          },
+          {
+            "title": "青山渚的情报搬运bot",
+            "variant": "outline-info",
+            "class": "text-truncate",
+            "link": "https://space.bilibili.com/1361979133/"
+          },
+          {
+            "title": "夜羽堕天",
+            "variant": "outline-info",
+            "class": "text-truncate",
+            "link": "https://space.bilibili.com/13434/"
+          }
+        ]
+      },
+      "divider",
+      {
+        "title": "友情链接",
+        "divider": false,
+        "cols": {
+          "default": 2,
+          "lg": 4
+        },
+        "child-tag": "liella-button",
+        "use-data": "friends",
+        "prepend": [
+          {
+            "title": "申请入驻",
+            "variant": "info",
+            "class": "text-truncate",
+            "link": "mailto:WatanabeYou5175@outlook.com"
+          }
+        ],
+        "children": {
+          "variant": "outline-info",
+          "class": "text-truncate"
+        }
+      }
+    ]
+  ]
+}

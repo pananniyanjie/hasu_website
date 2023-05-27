@@ -1,0 +1,44 @@
+{
+    "title":"第四话：街头Galaxy☆彡",
+    "description":"## 第四话：街头Galaxy☆彡\n\n这里编个简介（\n\n### 制作团队\n\n- 剧本：花田十辉\n- 分镜：森田宏幸\n- 演出：居村健治\n- 作画导演：后藤望、杉本海帆、とみながまり、吉田雄一\n- 总作画导演：斋藤敦史、佐野惠一\n- 片尾卡片：如月忧\n\n### 汉化\n\n- 翻译：[No.10字幕组](//space.bilibili.com/565597249)、[SNS字幕组](//space.bilibili.com/89102363/)\n- 技术支持：[黑联科技](//hlkj.wdztbil.top/)\n\n\n## LoveLive! Superstar!!\n\n私立结之丘女子高等学校，在表参道、原宿、青山三街道交界之处，一所新设立的学校今年迎来了第一批入学的学生。没有历史、没有学长、没有名气，要什么没什么的新学校里，以涩谷香音为中心的五位少女与“学园偶像”相遇了。我，果然还是最喜欢唱歌了！想通过歌声……实现愿望！尚且稚嫩的星星们，不断积累着大大的梦想——。纯白而拥有着无限可能的她们的「大家一起来实现的故事（学园偶像计划）」。展翅飞翔吧！我们的LoveLive！\n\n### 主要配音\n\n- 涩谷香音：伊达小百合\n- 唐可可：Liyuu\n- 岚千砂都：岬奈子\n- 平安名堇：Payton尚未\n- 叶月恋：青山渚\n\n### 制作团队\n\n- 原作：矢立肇\n- 原案：公野樱子\n- 监督：京极尚彦\n- 系列构成：花田十辉\n- 角色设计原案：室田雄平\n- 角色设计：斋藤敦史\n- 设计工作：如月忧\n- 美术监督：春日礼儿\n- 概念艺术：西川洋一\n- 色彩设计：加藤里惠\n- CG监督：饭沼佑树\n- 摄影监督：北冈正\n- 编辑：今井大介\n- 音响监督：长崎行男\n- 音乐：藤泽庆昌\n- 音乐制作：Lantis、SUNRISE Music\n- 动画制作：SUNRISE\n- 制作：2021 PROJECT Lovelive! Superstar!!（SUNRISE、BANDAI NAMCO Arts、KADOKAWA）",
+    "next":"",
+    "danmaku":{
+        "get":{
+            "url":"//liella.player.wdztbil.top/barrage/api",
+            "params":{
+                "ac":"get",
+                "key":"a1sd2rhQ5SAr1a1J2ft51",
+                "id":"b1d88f65fdc3bd0da5430d80c02794f4"
+            },
+            "methmod":"GET"
+        },
+        "send":{
+            "url":"//liella.player.wdztbil.top/barrage/api",
+            "params":{
+                "ac":"dm",
+                "key":"a1sd2rhQ5SAr1a1J2ft51"
+            },
+            "data":{
+                "author":"DIYgod",
+                "player":"b1d88f65fdc3bd0da5430d80c02794f4",
+                "size":"27.5px"
+            },
+            "methmod":"POST"
+        }
+    },
+    "complain":{
+        "reasons":["违法违禁","色情低俗","恶意刷屏","赌博诈骗","人身攻击","侵犯隐私","垃圾广告","剧透","引战"],
+        "request":{
+            "url":"//liella.player.wdztbil.top/barrage/api",
+            "params":{
+                "ac":"report",
+                "key":"a1sd2rhQ5SAr1a1J2ft51",
+                "title":"b1d88f65fdc3bd0da5430d80c02794f4"
+            },
+            "methmod":"GET"
+        }
+    },
+    "url":"//link.liella.tv/?/Liella!/%E5%8A%A8%E7%94%BB/s01e04.mp4",
+    "poster":"https://liella.player.wdztbil.top/bakimg.jpg",
+    "id":"test"
+}

@@ -1,0 +1,17 @@
+.footer {
+    text-align: center;
+    font-size: 0.8em;
+    color: rgba(0, 0, 0, 0.5);
+    padding: 20px 0;
+    font-weight: 300;
+    audio, canvas, embed, iframe, img, object, svg, video {
+        display: inline-block;
+    }
+}
+
+.footer a {
+    color: inherit;
+}
+.footer a[href]:hover,.footer a[href]:focus {
+    text-decoration: underline;
+}
